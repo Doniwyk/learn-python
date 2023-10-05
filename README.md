@@ -1,2 +1,2 @@
 # learn-python
-All the python code that I have learned
+Sebenarnya orange itu awalnya nama buah atau nama warna?
